@@ -1,3 +1,4 @@
+We are going to record some git commands here
 #Hello World
 1. 配置user信息(溯源)
 	git config --global user.name 'your_name'
